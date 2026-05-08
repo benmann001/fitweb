@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="FitWeb">
+  <!-- ink rounded square -->
+  <rect width="32" height="32" rx="6" fill="#0F0F0E"/>
+  <!-- the i-tick mark from the wordmark, scaled up as the brand glyph -->
+  <rect x="9" y="9" width="14" height="2" fill="#E8FF3A"/>
+  <!-- 'fw' wordmark in chalk -->
+  <text x="16" y="25"
+        font-family="Geist, -apple-system, system-ui, 'Helvetica Neue', sans-serif"
+        font-size="14"
+        font-weight="600"
+        text-anchor="middle"
+        fill="#F2F1ED"
+        letter-spacing="-0.04em">fw</text>
+</svg>
